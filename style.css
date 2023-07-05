@@ -5,3 +5,22 @@ body {
 .dark{
     background-color: black;
 }
+h1 {
+    font-size: 25px;
+}
+#button{
+    font-size: 20px;
+}
+#moon-1{
+    width: 150px;
+    display: none;
+}
+#moon-2{
+    width: 150px;
+    display: none;
+}
+#marquee{
+    margin-top: 20px;
+    font-size: 20px;
+    color: red;
+}
